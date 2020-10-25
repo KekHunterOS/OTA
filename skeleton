@@ -1,0 +1,32 @@
+{
+  "response": [
+    {
+      "datetime": unixtimestampofthebuild,    U can get unixtimestamp from this website, also add the stamp of youre ota creation, https://www.unixtimestamp.com/
+      "filename": "filenamefordownload.zip",  Here u need to put the zip name from the kek output (Change this every release of ota)
+      "romtype": "RELEASE",                   Dont change this
+      "id": "sha1",                           Here u put a sha1sum of the zip (Change this every release of ota)
+      "size": 10000,                          Here u need to add the size of the zip (In bytes no comas and spaces allowed)
+      "url": "linktodownloadfile.com",        Here u put a link from the release (Change this every release of ota)
+      "version": "KekHunter-1.0"              Dont change this
+      }
+    ]
+    
+}
+
+
+### Example with real links
+
+{
+  "response": [
+    {
+      "datetime": unixtimestampofthebuild, 
+      "filename": "example.zip",
+      "romtype": "RELEASE",
+      "id": "e2b3f99c3a252777503fb872f885a577b7e403eb", 
+      "size": 10000, 
+      "url": "https://github.com/KekHunterOS/Downloads/releases/download/skeleton-1.0/",
+      "version": "KekHunter-1.0"
+      }
+    ]
+    
+}
