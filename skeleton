@@ -30,3 +30,47 @@
     ]
     
 }
+
+### Example for multible releases
+
+{
+  "response": [
+    {
+      "datetime": 1607126400, 
+      "filename": "lineage-17.1-20201205-nightly-beryllium-signed.zip", 
+      "id": "a97c03c8280f74721d6947058d625ab3a0519f94ac345f1d6bb08fda1f903b27", 
+      "romtype": "nightly", 
+      "size": 806786618, 
+      "url": "https://mirrorbits.lineageos.org/full/beryllium/20201205/lineage-17.1-20201205-nightly-beryllium-signed.zip", 
+      "version": "17.1"
+    }, 
+    {
+      "datetime": 1607731200, 
+      "filename": "lineage-17.1-20201212-nightly-beryllium-signed.zip", 
+      "id": "72d20642ca43b9412f40d8fb82bdd127d8fe7d0d45cf6323496e0b8ecd6d9861", 
+      "romtype": "nightly", 
+      "size": 806762993, 
+      "url": "https://mirrorbits.lineageos.org/full/beryllium/20201212/lineage-17.1-20201212-nightly-beryllium-signed.zip", 
+      "version": "17.1"
+    }, 
+    {
+      "datetime": 1608336000, 
+      "filename": "lineage-17.1-20201219-nightly-beryllium-signed.zip", 
+      "id": "6c828847322f1326b347e59077c5ec8598da155baf6e3c0015aceee9ebc7ce19", 
+      "romtype": "nightly", 
+      "size": 807685701, 
+      "url": "https://mirrorbits.lineageos.org/full/beryllium/20201219/lineage-17.1-20201219-nightly-beryllium-signed.zip", 
+      "version": "17.1"
+    }, 
+    {
+      "datetime": 1608940800, 
+      "filename": "lineage-17.1-20201226-nightly-beryllium-signed.zip", 
+      "id": "ce77bbb30d48ecd157598286319ca513be8d17bcb2a824bd1e224c94afa83207", 
+      "romtype": "nightly", 
+      "size": 807665358, 
+      "url": "https://mirrorbits.lineageos.org/full/beryllium/20201226/lineage-17.1-20201226-nightly-beryllium-signed.zip", 
+      "version": "17.1"
+    }
+  ]
+}
+
